@@ -1,0 +1,20 @@
+{
+  "sth_lambda": 0.93,
+  "lambda_p": 0.5,
+  "lambda_t": 0.998,
+  "eta": 0.01,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "hermite_order": 2,
+  "laguerre_order": 3,
+  "legendre_order": 3,
+  "turnover_penalty": 0.0,
+  "cost_penalty": 0.0,
+  "weight_uniform_mix": 0.05,
+  "max_single_coin_fraction": 0.2,
+  "cov_lookback": 60,
+  "cov_shrinkage": 0.5,
+  "max_portfolio_vol": 0.03,
+  "min_virtual_gross_ratio": 0.3,
+  "stall_recovery_gain": 0.35
+}
